@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd
+chmod u+x 1-listit wc -l 1-listit
