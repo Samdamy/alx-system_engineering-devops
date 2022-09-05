@@ -1,1 +1,3 @@
-5-listfilesdigitonly
+#!/bin/bash
+ls na
+pwd
