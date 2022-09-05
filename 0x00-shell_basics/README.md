@@ -1,1 +1,1 @@
-Display current directory contents
+#!/bin/bash ls na
