@@ -1,1 +1,1 @@
-chmod u+x 1-listit wc -l 1-listit
+#!/bin/bash ls na

@@ -1,1 +1,1 @@
-#!/bin/bash ls na
+0-current_working_directory
