@@ -1,1 +1,1 @@
-1-hello_you
+The path to success is to take massive, determined action
